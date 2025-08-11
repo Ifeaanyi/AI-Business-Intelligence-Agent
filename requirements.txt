@@ -1,0 +1,22 @@
+# Core Dependencies for AI Business Intelligence Project
+python-dotenv==1.0.0
+langchain-groq==0.1.5
+pydantic==2.5.3
+
+# Database
+sqlite3  # Built into Python
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+
+# Streamlit Web App
+streamlit==1.29.0
+plotly==5.17.0
+
+# Fake Data Generation (for sample_data.py)
+faker==21.0.0
+
+# Optional: Additional useful packages
+requests==2.31.0
+python-dateutil==2.8.2
